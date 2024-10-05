@@ -5,6 +5,11 @@ In this we used Diabetes Prediction using KNN algo to train and testing the data
 we find the training and testing accuracy of dataset.
 Upon this we conclude that the person is diabetic or not.
 
+## Dataset
+
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 ## Demo
 
 
